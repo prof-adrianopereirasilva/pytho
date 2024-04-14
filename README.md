@@ -1,2 +1,1 @@
-# pytho
-#aulas
+# python
